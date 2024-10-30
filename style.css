@@ -1,0 +1,21 @@
+html{
+    background:bisque
+ }
+ h4 {
+    color: rgb(12, 12, 12);padding: 2%;font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ h1
+ {color: rgb(175, 115, 60);}
+
+ h2
+ {color: rgb(175, 115, 60);}
+
+ h3
+ {color: rgb(175, 115, 60);
+ img
+ {width: 400px;
+  height: 400px;
+  margin: auto;
+}
+ol
+{background-color: rgb(227, 221, 232);}
